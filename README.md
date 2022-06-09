@@ -16,5 +16,4 @@ C# Firebase Push Server由使用舊版 HTTP 改為使用 HTTP v1 範例
 3.建構發送請求方法,官網分特定設備、多個設備、主題與批量發送
 
 請參閱官方文檔
-
 https://firebase.google.com/docs/cloud-messaging/send-message?hl=zh&authuser=0
