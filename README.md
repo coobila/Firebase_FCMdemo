@@ -1,5 +1,5 @@
 # Firebase_FCMdemo
-C# Firebase Push Server由使用舊版 HTTP 改為使用 HTTP v1 範例
+Firebase 由使用舊版 HTTP 改為使用 HTTP v1發送消息 C#範例
 
 1.透過NuGet安裝FirebaseAdmin
 
